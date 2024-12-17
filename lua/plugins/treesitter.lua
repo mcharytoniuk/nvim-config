@@ -17,6 +17,7 @@ return {
 					"javascript", 
 					"lua", 
 					"php",
+					"python",
 					"rust",
 					"query", 
 					"terraform",

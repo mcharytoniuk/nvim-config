@@ -18,6 +18,9 @@ return {
 		nvim_lsp.gopls.setup{
 			on_attach = attach_nvim
 		}
+		nvim_lsp.rust_analyzer.setup{
+			on_attach = attach_nvim
+		}
 		nvim_lsp.ts_ls.setup{
 			on_attach = attach_nvim
 		}
